@@ -2,9 +2,9 @@
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
-| Example | Build status |
+|         | Build status |
 |---------|--------------|
-| Build [![Build Status](https://dev.azure.com/vishalpadghan/DemoProjectForToday/_apis/build/status/vishalrpadghan.pipelines-python-django?branchName=master)](https://dev.azure.com/vishalpadghan/DemoProjectForToday/_build/latest?definitionId=2?branchName=master) |
+| Build [![Build Status](https://dev.azure.com/louischering/DemoProject/_apis/build/status/CherLou.pipelines-python-django?branchName=master)](https://dev.azure.com/louischering/DemoProject/_build/latest?definitionId=1&branchName=master) |
 
 | Build (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=13) |
 | Build image and push to Docker Hub (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python-dockerhub)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=14) |
